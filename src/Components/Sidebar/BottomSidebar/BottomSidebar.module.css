@@ -1,0 +1,72 @@
+.bottomSidebar {
+    background-color: #ffffff;
+    border: solid #dfe4ec;
+    margin-top: 25px;
+}
+
+.bottomSidebar_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    color: #515860;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: solid #dfe4ec;;
+}
+
+.bottomSidebar_body {
+    padding: 20px 0 0 30px;
+    font-weight: bold;
+}
+
+.bottomSidebar_belongingTo {
+    width: 200px;
+    margin: 5px 0 15px 0;
+}
+
+.bottomSidebar_showOnly {
+    width: 200px;
+    margin-top: 5px;
+}
+
+.bottomSidebar_dateBlock {
+    margin: 15px 0 5px 0;
+}
+
+.bottomSidebar_dateBlock_from {
+    margin-right: 90px;
+}
+
+.bottomSidebar_date_from {
+    width: 85px;
+    margin-right: 30px;
+}
+
+.bottomSidebar_date_to {
+    width: 85px;
+    margin-right: 30px;
+}
+
+.bottomSidebar_inputsBlock {
+    display: flex;
+    flex-direction: row;
+}
+
+.bottomSidebar_bottomLine {
+    padding-top: 30px;
+    border-bottom: solid #dfe4ec;
+}
+
+.bottomSidebar_buttonsBlock {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 30px 20px 40px;
+}
+
+.bottomSidebar_buttonsBlock_clear {
+    margin-top: 7px;
+    font-weight: bold;
+    color: #72798a;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.topSidebar {
+    background-color: #ffffff;
+    border: solid #dfe4ec;
+    height: 275px;
+
+}
+
+.topSidebar_items {
+    display: grid;
+    margin: 25px;
+}
+.topSidebar_items_item {
+    margin-top: 25px;
+}
