@@ -1,6 +1,9 @@
 .wrapper {
     background: #f2f4f6;
     padding: 25px 20px;
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
 }
 
 .sidebarBlock {

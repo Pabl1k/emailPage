@@ -4,8 +4,8 @@ import {HeaderComponent} from "./Components/Header/Header";
 import {TopSidebar} from "./Components/Sidebar/TopSidebar/TopSidebar";
 import {BottomSidebar, FilterValueType} from "./Components/Sidebar/BottomSidebar/BottomSidebar";
 import {MainContent} from "./Components/Content/Content";
-import 'rsuite/dist/styles/rsuite-default.css';
 import {Container, Row} from 'rsuite';
+import 'rsuite/dist/styles/rsuite-default.css';
 
 export type SubjectsType = {
     id: number
